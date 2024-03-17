@@ -40,11 +40,6 @@ To use Product App, follow these steps:
     ```bash
     cd product-app
     ```
-3. Install the required dependencies (assuming you have Python and pip
-   installed):
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
